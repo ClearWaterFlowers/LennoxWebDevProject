@@ -1,0 +1,43 @@
+body{
+    background-color:#FBEAFF;
+    border: 100px;
+  }
+  h1{
+        text-align: center;
+        font-size: 45px;
+        font-family:'Times New Roman', Times, serif;
+        color: #845EC2;
+    }
+    .h2{
+        text-align: center;
+        font-size: 45px;
+        font-family:'Times New Roman', Times, serif;
+        color: #845EC2;
+    }
+.youtube{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+         .list{
+        float:left;
+        margin:0px 0px 400px 400px;
+        padding-right: 5%;
+
+
+    }
+    .pink{color: #D65DB1;
+        font-weight:bold;
+    }
+    .green{color:#00C9A7;
+        font-weight:bold;
+    }
+    .orange{color:#FFC75F;
+        font-weight:bold;
+    }
+    .purple{color:#845EC2;
+        font-weight:bold;
+    }
+    .navbar{
+        position:fixed;
+    }
